@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio DIO HTML</title>
+    <h1>Desafio DIO HTML</h1>
 </head>
 <body style="background-color: rgb(107, 125, 153); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
     <h1 id="indice">Aprendendo HTML na DIO</h1>
